@@ -1,3 +1,3 @@
 <p align=center>
-  <b><a href="https://gitlab.archlinux.org/archlinux/packaging/packages/typst">gitlab.archlinux.org/archlinux/packaging/packages/typst</a></b>
+  <b><a href="https://archlinux.org/packages/extra/x86_64/typst/">archlinux.org/packages/extra/x86_64/typst</a></b>
 </p>
